@@ -1,0 +1,5 @@
+build
+cynpyiter.egg*
+*.so
+.cache
+.eggs

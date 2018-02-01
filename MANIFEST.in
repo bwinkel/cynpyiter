@@ -1,0 +1,7 @@
+recursive-include cynpyiter *.h
+recursive-include cynpyiter *.c
+recursive-include cynpyiter *.pyx
+recursive-include cynpyiter *.pxd
+recursive-include cynpyiter *.py
+exclude .gitignore .git build
+include COPYING CITATION README.md MANIFEST.in
